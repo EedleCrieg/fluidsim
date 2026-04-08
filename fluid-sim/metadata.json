@@ -1,0 +1,5 @@
+{
+  "name": "Fluid-Sim",
+  "description": "A high-performance interactive fluid simulation tool. Draw obstacles, place sources, and visualize complex aerodynamic patterns in real-time.",
+  "requestFramePermissions": []
+}
